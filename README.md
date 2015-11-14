@@ -1,0 +1,2 @@
+# ALIOSS_PYTHON_SDK
+阿里云OSS服务的SDK
